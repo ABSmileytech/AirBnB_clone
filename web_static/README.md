@@ -1,5 +1,5 @@
 ### Airbnb Clone
-
+By Abraham Awoleye
 #### Description
 > This is one phase of the Airbnb Clone: the HTML and CSS part. The Images
 > folder holds icons for the site (e.g. logo, bathroom icons, bedroom icons,
